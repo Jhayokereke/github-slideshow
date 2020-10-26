@@ -2,5 +2,5 @@
 layout: slide
 title: "Owning this"
 ---
-Here's what I have to say.
+Dem say make I change you. We move :+1:
 Use the left arrow to go back!
